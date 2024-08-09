@@ -77,7 +77,7 @@ The project follows best coding practices, including:
 
 1. Clone the repository:
    ```bash
-   https://github.com/pesala-x/Web-Pos-Backend.git
+   https://github.com/pesala-x/Web-Pos-Frontend.git
    ```
 2. Set up the database using the provided SQL scripts.
 3. Configure JNDI in the Tomcat server.
