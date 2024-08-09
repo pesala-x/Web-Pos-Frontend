@@ -1,5 +1,5 @@
 
-# Thogakade - JavaEE Frontend
+# Thogakade - Frontend 
 
 **Thogakade** is a robust Point of Sale (POS) web application designed to streamline operations for small grocery stores. This project was developed as part of an academic assignment to create a backend API for an existing front-end using Jakarta EE. The application handles essential operations like managing customer data, item inventories, and order transactions, ensuring a seamless shopping experience.
 
