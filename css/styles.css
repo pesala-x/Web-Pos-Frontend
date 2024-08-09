@@ -7,10 +7,10 @@ body {
 }
 #home{
     /* background-color: #000000; */
-    margin-top: 250px;
+    margin-top: 257px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 1.5rem;
-    color: #ff0000;
+    color: #29bf12;
     background-color:  rgba(0, 0, 0, 0.2);
 }
 .navbar {

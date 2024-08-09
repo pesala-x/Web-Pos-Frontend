@@ -1,0 +1,155 @@
+/* General styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #fff;
+    border-bottom: 2px solid #ccc;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #29bf12 !important;
+}
+
+.nav-link {
+    color: #333 !important;
+    font-size: 1.1rem;
+}
+
+.nav-link:hover {
+    color: #29bf12 !important;
+}
+
+/* Section container */
+.section.container {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Headings */
+h2 {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Form styling */
+.form-group label {
+    font-weight: bold;
+    color: #333;
+}
+
+.form-control {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 1rem;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.form-control:focus {
+    border-color: #29bf12;
+    box-shadow: none;
+}
+
+/* Button styling */
+.btn {
+    margin-right: 5px;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary {
+    background-color: #1976d2;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0d47a1;
+}
+
+.btn-warning {
+    background-color: #ffa000;
+    border: none;
+}
+
+.btn-warning:hover {
+    background-color: #ff6f00;
+}
+
+.btn-danger {
+    background-color: #d32f2f;
+    border: none;
+}
+
+.btn-danger:hover {
+    background-color: #b71c1c;
+}
+
+.btn-secondary {
+    background-color: #757575;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: #424242;
+}
+
+/* Table styling */
+.table {
+    
+    margin-top: 20px;
+    background-color: #ffffff;
+}
+
+.table thead th {
+    background-color: #29bf12;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.table tbody td {
+    text-align: center;
+    color: #333;
+}
+
+.table-bordered {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f5f5f5;
+}
+
+/* Search bar */
+#searchCustomer {
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#searchCustomer:focus {
+    border-color: #29bf12;
+    box-shadow: none;
+}
