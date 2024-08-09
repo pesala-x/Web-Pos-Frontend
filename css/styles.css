@@ -1,6 +1,17 @@
 /* Custom CSS here */
 body {
     background-color: #f8f9fa;
+    background-image: url('/assets/images/domo-3aXokIylbKY-unsplash.jpg');
+    background-size: cover; /* Adjusts the size of the background image */
+    justify-content: center;
+}
+#home{
+    /* background-color: #000000; */
+    margin-top: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5rem;
+    color: #ff0000;
+    background-color:  rgba(0, 0, 0, 0.2);
 }
 .navbar {
     margin-bottom: 20px;
@@ -14,4 +25,20 @@ body {
 
 .new-row {
     transition: background-color 0.5s ease;
+}
+
+.navbar-brand {
+    font-size: 1.5rem; /* Navbar brand font size */
+    font-weight: bold; /* Navbar brand font weight */
+}
+.navbar-nav .nav-item {
+    margin-right: 10px; /* Optional: Adjust spacing between navbar items */
+}
+.navbar-nav .nav-link {
+    color: #fff; /* Navbar links text color */
+    font-size: 1.1rem; /* Navbar links font size */
+    transition: all 0.3s ease; /* Optional: Smooth transition on hover */
+}
+.navbar-nav>.nav-item>.nav-link :hover{
+    color: #ff0000; /* Navbar links text color on hover */
 }
