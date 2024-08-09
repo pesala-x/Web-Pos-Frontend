@@ -59,13 +59,6 @@ The back-end, developed using Jakarta EE, manages server-side operations, data p
 - **Database**: MySQL, JNDI for database connection pooling
 - **Build Tool**: Maven
 
-## API Documentation
-Explore the API documentation to understand how to interact with the system's backend:
-
-- [Customer API Documentation](https://link-to-customer-api-docs)
-- [Item API Documentation](https://link-to-item-api-docs)
-- [Order API Documentation](https://link-to-order-api-docs)
-
 ## Best Practices
 
 The project follows best coding practices, including:
